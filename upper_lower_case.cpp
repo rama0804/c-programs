@@ -1,3 +1,8 @@
+/*
+	Program to convert a string in upper case to lower case
+	Author : Atonu Ghosh
+	3rd December 2016
+*/
 #include<stdio.h>
 #include<conio.h>
 int main(){
