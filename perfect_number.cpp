@@ -1,3 +1,8 @@
+/*
+	Program to check if the entered number is a perfect number or not
+	Author : Atonu Ghosh
+	3rd December 2016
+*/
 #include<stdio.h>
 #include<conio.h>
 int main(){
