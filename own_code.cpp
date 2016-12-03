@@ -1,4 +1,8 @@
-//Program to print the code of current C file as a output
+/*
+	Program to print the code of current C file as output
+	Author : Atonu Ghosh
+	3rd December 2016
+*/
 #include<stdio.h>
 #include<conio.h>
 int main(){
