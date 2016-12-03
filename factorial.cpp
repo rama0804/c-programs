@@ -1,4 +1,8 @@
-//Program to find factorial of a number
+/*
+	Program to find factorial of a number
+	Author : Atonu Ghosh
+	3rd December 2016
+*/
 #include<stdio.h>
 #include<conio.h>
 int main(){
