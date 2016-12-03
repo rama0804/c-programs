@@ -1,3 +1,8 @@
+/*
+	Program to swap two numbers without using third variable
+	Author : Atonu Ghosh
+	3rd December 2016
+*/
 #include<stdio.h>
 #include<conio.h>
 int main(){
