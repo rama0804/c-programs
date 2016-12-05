@@ -1,5 +1,5 @@
 /*
-	Program to find factorial of a number
+	Program to pass a variable to a function by value
 	Author : Atonu Ghosh
 	3rd December 2016
 */
