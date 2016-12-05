@@ -1,4 +1,5 @@
 /*
+	Program to pass array to a function
 	Author : Atonu Ghosh
 	3rd December 2016
 */
