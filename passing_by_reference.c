@@ -1,3 +1,7 @@
+/*
+	Author : Atonu Ghosh
+	3rd December 2016
+*/
 #include<stdio.h>
 void increment(int *p){
     *p = *p+1;
