@@ -1,3 +1,8 @@
+/*
+	Program to find factorial of a number
+	Author : Atonu Ghosh
+	3rd December 2016
+*/
 #include<stdio.h>
 //function to calculate sum of elements in array
 int SOE(int* A, int size){
