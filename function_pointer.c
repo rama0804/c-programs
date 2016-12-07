@@ -1,4 +1,8 @@
 /*
+About : Program to implement function pointer
+Date : 7th Dec 2016
+Author : Atonu Ghosh
+---------------------------------------------------------
 calling and passing values to function using pointer
 */
 #include<stdio.h>
