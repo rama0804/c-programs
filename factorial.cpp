@@ -1,6 +1,6 @@
 /*
 	Program to find factorial of a number
-	Author : Atonu Ghosh
+	Author : Atonu Ghosh @atonughosh
 	3rd December 2016
 */
 #include<stdio.h>
