@@ -1,3 +1,8 @@
+/*
+    About : Random number generation between 1 and 5without repeating
+    Date : 7th Dec 2016
+    Author : Atonu Ghosh
+*/
 #include<stdio.h>
 #include<time.h>
 void main(){
