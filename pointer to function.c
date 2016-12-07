@@ -1,4 +1,8 @@
 /*
+About: Program to execute pointer to function
+Date : 7th December 2016
+Author : Atonu Ghosh
+------------------------------------------------------------------------
 Program may or may not provide the expected sum of 14
 It depends on the system as the value at the address returned by the
 function add, may be over written by some other function.
