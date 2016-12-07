@@ -1,5 +1,5 @@
 /*
-	Program to convert a string in upper case to lower case
+	About : Program to convert a string in upper case to lower case
 	Author : Atonu Ghosh
 	3rd December 2016
 */
