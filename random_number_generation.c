@@ -1,3 +1,8 @@
+/*
+About : Program to generate random number from 0 to 10
+Date : 7th Dec 2016
+Author : Atonu Ghosh
+*/
 #include<stdio.h>
 #include<time.h>
 void main(){
